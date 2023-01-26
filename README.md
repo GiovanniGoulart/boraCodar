@@ -5,9 +5,9 @@ Project carried out during an exclusive and free event, promoted by Rocketseat f
 </p>
 
 <p align="center">
-  <a href="#-technology">Technology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
+  <a href="#-Technology">Technology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-License">License</a>
 </p>
 
 <p align="center">
@@ -20,14 +20,14 @@ Project carried out during an exclusive and free event, promoted by Rocketseat f
   <img alt="Projeto boraCodar" src=".github/preview.jpg " width="100%">
 </p>
 
-## 🚀 Technologies
+## 🚀 Technology
 
 This project was developed with the following technologies:
 
 - HTML5 e CSS3
 - Git e Github
 
-## 💻 
+## 💻 Project 
 Project
 Project where the user will interact with the buttons and observe the appearance and cursor changes.
 
