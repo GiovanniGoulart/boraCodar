@@ -1,13 +1,13 @@
-<h1 align="center">boraCodar</h1>
+<h1 align="center">let's code</h1>
 
 <p align="center">
-Projeto realizado durante evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. 
+Project carried out during an exclusive and free event, promoted by Rocketseat for teaching WEB technologies 
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-technology">Technology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
 </p>
 
 <p align="center">
@@ -20,26 +20,27 @@ Projeto realizado durante evento exclusivo e gratuito, promovido pela Rocketseat
   <img alt="Projeto boraCodar" src=".github/preview.jpg " width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - HTML5 e CSS3
 - Git e Github
 
-## 💻 Projeto
-Projeto onde o usuário vai interagir com os botões e observar as mudanças de aparência e de cursores.
+## 💻 
+Project
+Project where the user will interact with the buttons and observe the appearance and cursor changes.
 
-- [Acesse o projeto finalizado, online] https://giovannigoulart.github.io/boraCodar/
+- [Access the finished project online] https://giovannigoulart.github.io/boraCodar/
 
 
 
 
-## :memo: Licença
+## :memo: License
 
-Esse projeto está sob a licença MIT.
+This project is licensed MIT.
 
 ---
 
-Feito por https://github.com/GiovanniGoulart 
+Made by https://github.com/GiovanniGoulart 
 
