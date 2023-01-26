@@ -28,12 +28,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 
 ## 💻 Projeto
-O projeto onde usuário vai interagir com os botões e observar as mudanças de aparência e de cursores.
-<<<<<<< HEAD
+Projeto onde o usuário vai interagir com os botões e observar as mudanças de aparência e de cursores.
+
 - [Acesse o projeto finalizado, online] https://giovannigoulart.github.io/boraCodar/
-=======
-- [Visite o projeto online]()
->>>>>>> 34e6cd63b6e7a79f9a35286c0fa34f0b300ec805
+
+
 
 
 ## :memo: Licença
