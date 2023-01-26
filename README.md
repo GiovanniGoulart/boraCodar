@@ -1,7 +1,7 @@
 <h1 align="center">boraCodar</h1>
 
 <p align="center">
-Projeto realizado durante evento exclusivo e gratuito, promovido para ensino de tecnologias WEB. 
+Projeto realizado durante evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. 
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 O projeto onde usuário vai interagir com os botões e observar as mudanças de aparência e de cursores.
-- [Acesse o projeto finalizado, online]
+- [Visite o projeto online]()
 
 
 ## :memo: Licença
