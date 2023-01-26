@@ -17,7 +17,7 @@ Projeto realizado durante evento exclusivo e gratuito, promovido para ensino de 
 <br>
 
 <p align="center">
-  <img alt="Projeto boraCodar" src=" " width="100%">
+  <img alt="Projeto boraCodar" src=".github/preview.jpg " width="100%">
 </p>
 
 ## 🚀 Tecnologias
